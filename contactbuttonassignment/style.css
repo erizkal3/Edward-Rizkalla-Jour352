@@ -1,0 +1,35 @@
+/*
+MY COLOR PALETTE
+Color 1 - #838683HEX
+Color 2 - #HEX
+Color 3 - #HEX
+Color 4 - #HEX
+Color 5 - #HEX
+*/
+
+body {
+    background-color: #838683;
+    text-align: center
+}
+
+button {
+    background-color: #175985;
+    color: beige;
+    font-family: "Oswald", sans-serif;
+    width:200px;
+    padding:20px; 
+    margin-top:50px; 
+}
+
+button:hover {
+    background-color: dodgerblue;
+    font-weight: 500;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+}
