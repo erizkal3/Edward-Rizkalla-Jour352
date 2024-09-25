@@ -16,14 +16,14 @@ button {
     width: 200px;
     padding: 20px;
     margin-top: 50px;
-    font-size: 28px
+    font-size: 25px
 }
 
 button {
-    border-radius: 60px;
+    border-radius: 50px;
 }
 button:hover {
-    background-color: dodgerblue;
+    background-color: #1e90ff;
     font-weight: 500;
     border: none;
 }
