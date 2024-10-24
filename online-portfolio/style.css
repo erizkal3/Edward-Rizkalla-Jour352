@@ -1,0 +1,102 @@
+@media { 
+
+
+    
+h1 {
+    font-family:"League Spartan";
+    font-size:1000px;
+    font-weight:bolder;
+    margin: 50px 100px 0px 0px;
+}
+
+h2 { 
+    font-family:"Tenor Sans";
+    font-size:1000px;
+    font-weight:bold;
+    
+    
+    
+    }
+
+    h3 {
+        
+        
+    }
+    
+    h4 {
+        
+        
+    }
+
+    h5 {
+        
+        
+    }
+    
+    
+img {
+    border-radius:900px;
+    width:80%;
+    border:10px solid white;
+    margin: 20px 0px 20px 20px
+   
+}
+
+#headshot {
+    width:300px;
+    padding:0px;
+    margin:20px 0px 20px 40px;
+    border-radius: 500px;
+}  
+    
+#button {
+    background-color:#E56B6F;
+    border:50px;
+    border-radius: 50px;
+    padding:10px 30px 10px 30px;
+    text-transform:uppercase;
+    margin:10px;
+}
+
+#button a {
+    color:white;
+    text-decoration: none;
+}
+
+    
+#topper {
+    background-color:#144a92;
+    background-size: cover;
+}
+
+#navigation {
+    background-color:#144a92;
+    text-align:center;
+        }
+    
+    .title {
+        font-weight:bold;
+    }
+    
+#jobtitle { 
+font-weight:bold;
+text-transform:uppercase;
+        
+    }
+  
+    }
+#footer {
+    background-color:#d9d9d9;
+    padding: 20px 0px 20px 20px;
+}
+
+@media (min-width: 570px) {
+    h1 {
+        font-size:120px;
+    }
+}
+
+.topnav {
+  background-color:#E56B6F;
+  overflow: hidden;
+}
