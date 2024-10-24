@@ -1,5 +1,9 @@
 @media { 
 
+    body {
+            background-color:#144a92;
+
+    }
 
     
 h1 {
@@ -65,7 +69,6 @@ img {
 
     
 #topper {
-    background-color:#144a92;
     background-size: cover;
 }
 
