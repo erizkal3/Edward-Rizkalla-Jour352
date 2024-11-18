@@ -7,44 +7,55 @@
 
     
 h1 {
-    font-family:"League Spartan";
-    font-size:1000px;
-    font-weight:bolder;
-    margin: 50px 100px 0px 0px;
+    font-family: "League Spartan", sans-serif;
+        font-size: 300px;
+        font-weight: bolder;
+        margin: 100px 10px;
+        color:floralwhite;
 }
 
 h2 { 
-    font-family:"Tenor Sans";
-    font-size:1000px;
-    font-weight:bold;
-    
+    font-family: "Tenor Sans", sans-serif;
+        font-size: 70px;
+        font-weight:bold;
+        margin: 10px 10px 130px 130px;
+        color:floralwhite
     
     
     }
 
-    h3 {
-        
+    .col {
+        font-family: League Spartan;
+        color:floralwhite;
         
     }
     
-    h4 {
-        
-        
+    .col-sm-4 {
+       font-family: League Spartan;
+       color:floralwhite;
     }
-
-    h5 {
-        
-        
+    
+    .ool-sm-8 {
+        font-family:Tenor Sans;
+        color:floralwhite;
+    }
+    .description {
+        font-family:Tenor Sans;
+        color:floralwhite;
+    }
+    
+     .col-sm-6 {
+        font-family:Tenor Sans;
+        color:floralwhite;
     }
     
     
 img {
-    border-radius:900px;
-    width:80%;
-    border:10px solid white;
-    margin: 20px 0px 20px 20px
-   
-}
+        border-radius: 900px;
+        width: 80%;
+        border: 10px solid white;
+        margin: 20px 0px 20px 20px;
+    }
 
 #headshot {
     width:300px;
@@ -54,37 +65,39 @@ img {
 }  
     
 #button {
-    background-color:#E56B6F;
-    border:50px;
-    border-radius: 50px;
-    padding:10px 30px 10px 30px;
-    text-transform:uppercase;
-    margin:10px;
-}
+        background-color: #e56b6f;
+        border: 300px;
+        border-radius: 300px;
+        padding: 10px 30px 10px 30px;
+        text-transform: uppercase;
+        margin: 10px 120px;
+    }
 
 #button a {
-    color:white;
-    text-decoration: none;
-}
+        color: white;
+        font-size: 40px;
+        text-decoration: none;
+    }
 
     
 #topper {
-    background-size: cover;
-}
-
-#navigation {
-    background-color:#144a92;
-    text-align:center;
-        }
+        background-size: cover;
+        background-color: #a42b2b;
+    }
+    #navigation {
+        font-family:Tenor Sans;
+        background-color: #d9d9d9;
+        text-align: center;
+    }
     
     .title {
         font-weight:bold;
     }
     
-#jobtitle { 
-font-weight:bold;
-text-transform:uppercase;
-        
+ #jobtitle {
+        font-weight: bold;
+        text-transform: uppercase;
+
     }
   
     }
