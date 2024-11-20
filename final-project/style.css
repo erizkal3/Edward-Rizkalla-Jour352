@@ -1,0 +1,22 @@
+img {
+    width:100%;
+}
+
+#topper2 {
+    background-image: url(Notre%20Dame%20Picture.jpg);
+    background-size: cover;
+}
+
+#topper3 {
+    background-image: url(Notre%20Dame%20Picture.jpg);
+     background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+h1 {
+    size: 100px;
+    margin: 0px 0px 300px 0px;
+    color:black
+}
